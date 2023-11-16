@@ -79,4 +79,4 @@ else
 fi
 
 # Display final message
-echo "初期工程は終わりました。後は各自 PostgreSQLのデータベース設定やMisskeyの設定を行ってください。
+echo "初期工程は終わりました。後は各自 PostgreSQLのデータベース設定やMisskeyの設定を行ってください。"
